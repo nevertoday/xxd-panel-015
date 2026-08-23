@@ -44,11 +44,25 @@ XXD Panel 015 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **完整文字系统：** 2–5 词主标题＋2–4 组微文字，至少一组极小、一组稍大，沿轴线、边缘、轮廓、色块和负空间形成阅读路径。
 - **无年份自动文案：** 自动创作不发明或使用年份；用户准确文案即使含年份也逐字保留。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 015 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
+> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
 
-未来样张只用于展示 015 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 015 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种抽象记忆逻辑
 
