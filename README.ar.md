@@ -24,6 +24,26 @@ XXD Panel 015 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تأتي الألوان من المصدر وحده وتُختصر في لون رئيسي ولون بنيوي داكن ولون فاتح أو محايد، مع لمسة صغيرة عند الحاجة. يحمل عنوان شعري من كلمتين إلى خمس كلمات العاطفة، وتحمل مجموعتان إلى أربع مجموعات من النص المجهري النظام والدليل والمادة وإيقاع القراءة: تحفظ الهندسة الذاكرة البصرية ويبني النص المسار التحريري.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
+> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 015 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 015؟
 
 يتحول «الهندسي الأدنى» بسهولة إلى أيقونة عامة أو دوائر وأشرطة اعتباطية أو توزيع متساو أو قالب باوهاوس جاهز أو أشكال زخرفية تصلح لأي صورة.
@@ -45,26 +65,6 @@ XXD Panel 015 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **أدوار لونية صارمة:** لون رئيسي واحد ولون بنيوي داكن واحد ولون فاتح أو محايد واحد، مع لمسة صغيرة عند الحاجة.
 - **نظام نص كامل:** عنوان من كلمتين إلى خمس ومجموعتان إلى أربع مجموعات مجهرية تصنع مسار قراءة على المحاور والحواف والمحيط والكتل اللونية والفراغ السلبي.
 - **لا سنة في النص التلقائي:** لا يخترع النص التلقائي سنة ولا يستخدمها، بينما يبقى نص المستخدم الدقيق حرفياً حتى لو احتوى سنة.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
-> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 015 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

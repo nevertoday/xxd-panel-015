@@ -22,6 +22,26 @@ XXD Panel 015 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 色彩严格来自源图并收敛为一个主色、一个深结构色、一个浅／中性色和至多少量关键强调色。一个 2–5 词诗意标题负责情绪，2–4 组微型文字负责秩序、证据、材质与阅读节奏；几何承担视觉记忆，文字建立高级编辑路径。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
+> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 015 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 015
 
 普通“极简几何”很容易退化成通用图标、随意圆条、平均排列、包豪斯模板，或一组与任何照片都能搭配的装饰形体。
@@ -43,26 +63,6 @@ XXD Panel 015 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **严格色彩角色：** 一个主色、一个深结构色、一个浅／中性色，至多少量强调色；通过面积、深浅和局部对比建层次。
 - **完整文字系统：** 2–5 词主标题＋2–4 组微文字，至少一组极小、一组稍大，沿轴线、边缘、轮廓、色块和负空间形成阅读路径。
 - **无年份原始提示词生成文字：** 按原始提示词生成的文字不发明或使用年份；用户准确文案即使含年份也逐字保留。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
-> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 015 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

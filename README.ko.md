@@ -22,6 +22,26 @@ XXD Panel 015는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 색은 원본에서만 가져와 주색 하나, 어두운 구조색 하나, 밝은색 또는 중성색 하나와 필요한 경우 작은 강조색으로 제한합니다. 2–5단어의 시적 제목은 감정을, 2–4개 미세 문자 그룹은 질서, 근거, 재질과 읽기 리듬을 담당합니다. 기하는 시각 기억을, 문자는 편집 경로를 만듭니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
+> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 015의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 015이 필요한가요
 
 일반적인 ‘미니멀 기하’는 범용 아이콘, 임의의 원과 막대, 균등 배열, 기성 바우하우스 템플릿 또는 어떤 사진에도 붙는 장식 형태로 쉽게 무너집니다.
@@ -43,26 +63,6 @@ XXD Panel 015는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **엄격한 색 역할:** 주색 하나, 어두운 구조색 하나, 밝은색 또는 중성색 하나와 필요한 경우 작은 강조색만 씁니다.
 - **완전한 문자 체계:** 2–5단어 제목과 2–4개 미세 문자 그룹이 축, 가장자리, 윤곽, 색 면, 음의 공간을 따라 읽기 경로를 만듭니다.
 - **원본 프롬프트 생성 문구에 연도 없음:** 자동 창작은 연도를 만들거나 쓰지 않으며 사용자 확정 문구에 연도가 있어도 그대로 보존합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
-> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 015의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

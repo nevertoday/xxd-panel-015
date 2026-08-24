@@ -22,6 +22,26 @@ XXD Panel 015 is an image-generation Skill for Codex and compatible agents. It d
 
 Colour comes only from the source and resolves into one main colour, one dark structural colour, one light or neutral colour, and at most a small key accent. One poetic 2–5-word title carries emotion while two to four microtext groups carry order, evidence, material, and reading rhythm: geometry holds visual memory; typography builds the editorial path.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
+> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 015 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Minimal geometry” easily collapses into a generic icon, arbitrary circles and bars, even arrangement, a stock Bauhaus template, or decorative forms that could accompany any photograph.
@@ -43,26 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Strict colour roles:** one main, one dark structural, one light or neutral colour, and at most a small accent; area, value, and local contrast establish hierarchy.
 - **Complete type system:** one 2–5-word title plus two to four microtext groups, including deliberate scale contrast, form a reading path along axes, edges, contours, colour blocks, and negative space.
 - **No-year original-prompt-generated text:** original-prompt-generated text neither invents nor uses a year; exact user wording stays verbatim even when it contains one.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090123569984679990) · 2026-08-19<br>
-> GPT2 x 几何图形 x 留白 x 美学提示词 x VOL.015
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 015 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 015 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 015 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 015 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090123569984679990">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 015 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 
