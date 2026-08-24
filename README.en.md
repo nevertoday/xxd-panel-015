@@ -42,7 +42,18 @@ Colour comes only from the source and resolves into one main colour, one dark st
 
 These samples demonstrate the 015 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 015 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Distil the photograph into minimal abstract memory and a complete editorial system |
+| **Recognizable signature** | DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Minimal geometry” easily collapses into a generic icon, arbitrary circles and bars, even arrangement, a stock Bauhaus template, or decorative forms that could accompany any photograph.
 
@@ -54,7 +65,7 @@ lock mass / axes / curves / interlocks / occlusions / negative space / asymmetry
 
 If an unrelated photograph could replace the source without materially changing mass ratios, axes, curves, interlocks, negative shapes, colour areas, or type path, the result is not 015.
 
-## The 015 visual contract
+## What makes the finished style recognizable
 
 - **Source structure:** at least three specific cues come from mass ratio, axis, curve, interlock, layer, occlusion, negative space, scale difference, or asymmetry.
 - **Four-stage logic:** deconstruct structural facts, select essential relations, distil geometric roles, and reconstruct abstract memory instead of diagramming every detail.
