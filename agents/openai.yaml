@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-015"
-  short_description: "Create minimal abstract-memory editorials."
-  default_prompt: "Use $xxd-panel-015 to deconstruct, select, distil, and reconstruct my photo as a source-bound minimal abstract memory with a few geometric forms, preserved mass ratios, axes, curves, occlusions, negative space, strict source-derived colour roles, and art-book microtypography; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 015 from its original style brief."
+  default_prompt: "Use $xxd-panel-015; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."

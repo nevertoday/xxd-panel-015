@@ -1,62 +1,79 @@
-# XXD Panel 015 | Minimal Abstract-Memory Editorial Production Prompt
+# XXD Panel 015 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/015-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 015. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, silhouette, pose, action, space, and narrative relation. Preserve at least three source-specific structural cues. Never borrow a form, palette, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Deconstruct → select → distil → reconstruct
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Deconstruct the source into mass proportions, primary and secondary axes, key curves, openings, interlocks, layers, occlusions, negative spaces, scale differences, distances, and asymmetric balance. Select only the few facts essential to recognition and memory, distil each selected fact into one clear geometric role, then reconstruct one coherent abstract memory rather than diagramming every part.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-People retain pose, orientation, body or clothing mass, and relational distance; animals retain body rhythm and head direction; plants retain growth curve; architecture retains skyline, axes, and defining openings; objects and vehicles retain functional mass and negative shape; landscapes retain a source-specific horizon, terrain curve, or spatial relation.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-The source correspondence must be felt at a glance without completing every contour. Every form carries identity, weight, action, spatial relation, or memory; no shape exists merely to look modern.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-## Few forms, one visual memory
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Use a small disciplined vocabulary of circles, ellipses, rectangles, bars, arcs, wedges, irregular planes, or custom simple contours. Introduce a form only when it directly represents a locked structural fact.
+### Text generated from the original prompt
 
-Preserve the source's most distinctive ratios and relations: long axis against compact mass, curve against bar, opening inside body, one form passing behind another, a blocked edge, narrow gap, or deliberate imbalance. Flat overlap and extremely restrained spatial cues are allowed; gradients, photoreal volume, and 3D objects are not.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Compose around one visual centre through scale difference, primary/secondary hierarchy, positive/negative form, occlusion, alignment, and breathing rhythm. Preserve a large clean ivory ground. Reject even distribution, filling empty space, fragmented debris, equal modules, iconification, logo marks, and stock Bauhaus compositions.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## Strict source-derived colour roles
+### User-exact text
 
-All colour comes from the source and resolves into one main colour, one dark structural colour, and one light or neutral colour. Add at most one small key accent only when clearly supported by the source.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Preserve the source's most recognisable and spirited colour rather than averaging pixels or greying the whole palette. Build hierarchy through area proportion, value relationship, and local contrast: the main colour carries memory, the dark anchors axes, occlusion, or type, and the light or neutral opens space.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Keep the ivory ground visibly distinct from the light form. Reject equal colour shares, indiscriminate multicolour, fixed palettes, digital gradients, atmospheric shading, muddy ageing, and decorative colour unsupported by the source.
+### No text
 
-## Editorial microtypography
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Obey the resolved automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. In text-free mode render no letter, character, number, text, or pseudo-text.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Automatic copy distils one poetic 2–5-word title from source light, space, action, material, relation, or emotion, then adds two to four microtext groups. Supporting groups may use a short phrase, state word, user-supplied or established place/object information, compositional index, chapter mark, sequence code, scale-like number, direction word, material word, archival label, or micro-explanation.
-
-Automatic copy never invents or uses a year. Places, dates, provenance, and factual numbers must be user-supplied or reliably established. Exact user wording remains verbatim even when it contains a year; the no-year rule constrains automatic invention and never overrides the user's text.
-
-The title carries emotion; microtype carries order, evidence, material, sequence, and reading rhythm. Align type along geometric axes, edges, contours, colour blocks, or negative space. Use vertical setting, rotation, columns, tracking, edge attachment, corner pressure, crossing, nesting, or alignment only when native to the script and structurally useful. Include deliberate scale contrast between at least one very small and one slightly larger group.
-
-Use native equivalents of restrained serif and slender editorial type for the target script. Never force Latin tracking, rotation, or small caps onto Chinese, Japanese, Korean, or Arabic, and never use a generic bold display face, UI type, glow, extrusion, or pasted label.
-
-## Mode and acceptance
-
-
-Hard gate: at least three source structural cues; a visible deconstruct–select–distil–reconstruct logic; few forms, one visual memory, strong scale hierarchy, clear positive/negative form, and generous ivory space; source-earned mass ratios, axes, curves, interlocks, layers, occlusions, negative space, and asymmetry; strict main + dark structural + light/neutral colour roles with at most a small accent; a 2–5-word title and two to four accurate microtext groups form a reading path; no invented year in automatic copy and exact user wording remains verbatim; no generic icon, logo, even arrangement, fragment pile, meaningless circle-and-bar set, overall greying, gradient, complex collage, commercial template, photo fragment, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 015-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
