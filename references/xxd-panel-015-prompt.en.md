@@ -1,5 +1,13 @@
 # XXD Panel 015 | Minimal Abstract-Memory Editorial Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, silhouette, pose, action, space, and narrative relation. Preserve at least three source-specific structural cues. Never borrow a form, palette, copy, or composition from old outputs, samples, or another input.
 
 ## Deconstruct → select → distil → reconstruct
@@ -40,7 +48,6 @@ Use native equivalents of restrained serif and slender editorial type for the ta
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose the few forms, positive/negative space, and reading path for every device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: at least three source structural cues; a visible deconstruct–select–distil–reconstruct logic; few forms, one visual memory, strong scale hierarchy, clear positive/negative form, and generous ivory space; source-earned mass ratios, axes, curves, interlocks, layers, occlusions, negative space, and asymmetry; strict main + dark structural + light/neutral colour roles with at most a small accent; a 2–5-word title and two to four accurate microtext groups form a reading path; no invented year in automatic copy and exact user wording remains verbatim; no generic icon, logo, even arrangement, fragment pile, meaningless circle-and-bar set, overall greying, gradient, complex collage, commercial template, photo fragment, or pseudo-text.
 
