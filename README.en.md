@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 015
+# 🦁 XXD Panel 015｜Abstract Memoir
 
 ### Distil the photograph into minimal abstract memory and a complete editorial system
 

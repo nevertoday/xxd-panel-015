@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 015
+# 🦁 XXD Panel 015｜추상 회고록
 
 ### 사진을 미니멀 추상 기억과 완전한 편집 체계로 정제합니다
 

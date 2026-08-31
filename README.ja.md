@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 015
+# 🦁 XXD Panel 015｜抽象の記憶録
 
 ### 写真を、極簡の抽象記憶と完全な編集システムへ
 

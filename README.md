@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 015
+# 🦁 XXD Panel 015｜抽象记忆录
 
 ### 把照片提炼成极简抽象记忆与完整编辑系统
 
