@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-015
-description: "Create XXD Panel 015 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-015 or requests the exact Panel 015 style."
+description: "XXD Panel 015｜Abstract Memoir: distils a photo into minimal abstract memory on clean ivory: it deconstructs, selects and rebuilds the subject from a few geometric forms that keep its most distinctive proportions, axes, curves, overlaps and negative space, in a strict palette from the photo of one main colour, one dark structural colour and one light neutral with at most a small accent, paired with a complete editorial micro-typography system — a poetic two-to-five-word title and two to four tiny groups of labels, numbers, chapter marks or notes (never a year) in restrained serif and thin editorial type, set along axes, edges and negative space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-015 or asks for minimal abstract geometric posters, art-book abstraction or editorial typography with abstract shapes from a photo."
 ---
 
 # XXD Panel 015

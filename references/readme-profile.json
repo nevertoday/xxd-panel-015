@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 015｜Abstract Memoir: distils a photo into minimal abstract memory on clean ivory: it deconstructs, selects and rebuilds the subject from a few geometric forms that keep its most distinctive proportions, axes, curves, overlaps and negative space, in a strict palette from the photo of one main colour, one dark structural colour and one light neutral with at most a small accent, paired with a complete editorial micro-typography system — a poetic two-to-five-word title and two to four tiny groups of labels, numbers, chapter marks or notes (never a year) in restrained serif and thin editorial type, set along axes, edges and negative space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-015 or asks for minimal abstract geometric posters, art-book abstraction or editorial typography with abstract shapes from a photo.",
+  "short_description": "抽象记忆录：把照片拆解重组成几块几何形、严格三色和一整套编辑微排版",
+  "zh-CN": {
+    "name": "抽象记忆录",
+    "tagline": "把照片拆开、筛选、重组成几块几何形和一套精致的编辑小字，像艺术书里的一页。",
+    "look": "下方是干净的象牙色底，照片按“解构、筛选、提炼、重构”变成极简抽象：只留下最独特的体量比例、轴线、曲线、穿插、遮挡和负空间，用少量几何形重新排，不复刻细节，但一眼能感到和原图的对应。颜色全部从照片里取，精简成一个主色、一个深色结构色、一个浅色或中性色，最多再加一点强调色。文字是一整套编辑微排版：一个两到五个词的诗意标题，加两到四组极小的状态词、编号、章节号、方向词或档案标签，不用年份，沿几何轴线、边缘或负空间纵排、旋转或分栏。",
+    "traits": [
+      "解构重组",
+      "少量形体",
+      "色彩角色",
+      "象牙留白",
+      "艺术书"
+    ],
+    "good": [
+      "几何感强的建筑和空间：旋转楼梯、拱廊、桥、天窗下的光影",
+      "造型清楚的静物：一只花瓶、一把椅子、一组碗",
+      "姿态鲜明的人或动物：舞者的一个动作、伸懒腰的猫"
+    ],
+    "poor": [
+      "需要认出具体是谁、具体细节的照片，抽象后只剩比例和关系",
+      "靠很多颜色取胜的照片，这里只保留三种主要颜色",
+      "需要标明年份日期，或想要热闹拼贴的设计"
+    ]
+  },
+  "en": {
+    "name": "Abstract Memoir",
+    "tagline": "Takes a photo apart and rebuilds it from a few geometric shapes and a refined set of tiny editorial text, like an art-book page.",
+    "look": "On clean ivory, the photo is deconstructed, filtered, distilled and rebuilt as minimal abstraction: only its most distinctive proportions, axes, curves, overlaps and negative space remain, rearranged with a handful of geometric forms that drop the detail but still clearly answer the original. Every colour comes from the photo and is reduced to one main colour, one dark structural colour and one light or neutral tone, with at most a small accent. The text is a full editorial micro-typography system: a poetic title of two to five words plus two to four tiny groups of state words, numbers, chapter marks, directions or archive labels, never a year, set vertically, rotated or in columns along axes, edges and negative space.",
+    "traits": [
+      "Deconstruct and rebuild",
+      "Few forms",
+      "Colour roles",
+      "Ivory whitespace",
+      "Art book"
+    ],
+    "good": [
+      "Strongly geometric architecture and spaces: a spiral staircase, an arcade, a bridge, light under a skylight",
+      "Still lifes with clear shapes: a vase, a chair, a stack of bowls",
+      "People or animals in a distinct pose: one move of a dancer, a cat stretching"
+    ],
+    "poor": [
+      "Photos where you need to recognise exactly who or what detail, since abstraction keeps only proportion and relationship",
+      "Photos that rely on many colours, since only three main colours are kept",
+      "Designs that must show a year or date, or that want a busy collage"
+    ]
+  },
+  "ja": {
+    "name": "抽象の記憶録",
+    "tagline": "写真を分解して選び、いくつかの幾何形と繊細な編集文字で組み直し、アートブックの一ページのようにします。",
+    "look": "清潔なアイボリーの地の上で、写真を「分解、選別、抽出、再構成」の順に最小限の抽象へ変えます。残すのは最も独特な量感の比率、軸、曲線、交差、重なり、負の空間だけで、少数の幾何形で並べ直し、細部は写しませんが、元の写真との対応は一目で感じられます。色はすべて写真から取り、主色一つ、暗い構造色一つ、淡い色か中間色一つにしぼり、多くても小さな強調色を加えるだけです。文字は編集的なマイクロタイポグラフィ一式で、二〜五語の詩的なタイトルに、ごく小さな状態語、番号、章番号、方向語、アーカイブ風のラベルを二〜四組添え、年号は使いません。幾何学の軸、縁、負の空間に沿って縦組み、回転、段組みで置きます。",
+    "traits": [
+      "分解と再構成",
+      "少数の形",
+      "色の役割",
+      "アイボリーの余白",
+      "アートブック"
+    ],
+    "good": [
+      "幾何学的な建築や空間：らせん階段、アーケード、橋、天窓の下の光",
+      "形のはっきりした静物：花瓶、椅子、重ねた器",
+      "姿勢に特徴のある人や動物：ダンサーの一つの動き、伸びをする猫"
+    ],
+    "poor": [
+      "誰なのか、どんな細部なのかを見分けたい写真（抽象化すると比率と関係だけが残ります）",
+      "色の多さが魅力の写真（主要な色は三つだけ残します）",
+      "年号や日付を入れたいデザイン、にぎやかなコラージュを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "추상 회고록",
+    "tagline": "사진을 해체하고 골라 몇 개의 기하 형태와 섬세한 편집 글자로 다시 짜서 아트북의 한 페이지처럼 만듭니다.",
+    "look": "깨끗한 아이보리 바탕 위에서 사진을 '해체, 선별, 추출, 재구성'의 순서로 미니멀한 추상으로 바꿉니다. 가장 독특한 부피 비율, 축, 곡선, 교차, 겹침, 음의 공간만 남겨 적은 수의 기하 형태로 다시 배치하며, 세부는 옮기지 않지만 원본과의 대응은 한눈에 느껴집니다. 색은 모두 사진에서 가져와 주색 하나, 어두운 구조색 하나, 밝은 색이나 중성색 하나로 줄이고, 많아야 작은 강조색 하나를 더합니다. 글자는 편집용 마이크로 타이포그래피 한 벌로, 2~5단어의 시적인 제목에 아주 작은 상태어, 번호, 장 표시, 방향어, 아카이브식 라벨을 두세 묶음에서 네 묶음 곁들이고 연도는 쓰지 않습니다. 기하 축, 가장자리, 음의 공간을 따라 세로쓰기, 회전, 단 나누기로 놓습니다.",
+    "traits": [
+      "해체와 재구성",
+      "적은 형태",
+      "색의 역할",
+      "아이보리 여백",
+      "아트북"
+    ],
+    "good": [
+      "기하학적인 건축과 공간: 나선 계단, 아케이드, 다리, 천창 아래 빛",
+      "형태가 분명한 정물: 꽃병, 의자, 겹쳐 놓은 그릇",
+      "자세가 뚜렷한 사람이나 동물: 무용수의 한 동작, 기지개 켜는 고양이"
+    ],
+    "poor": [
+      "정확히 누구인지, 어떤 세부인지 알아봐야 하는 사진(추상화하면 비율과 관계만 남습니다)",
+      "많은 색이 매력인 사진(주요 색은 세 가지만 남깁니다)",
+      "연도나 날짜를 표시해야 하거나 북적이는 콜라주를 원하는 디자인"
+    ]
+  },
+  "ar": {
+    "name": "مذكرات تجريدية",
+    "tagline": "يفكّك الصورة وينتقي منها ويعيد بناءها من أشكال هندسية قليلة ومنظومة نصية تحريرية دقيقة، كصفحة من كتاب فني.",
+    "look": "على أرضية عاجية نظيفة تمرّ الصورة بمراحل التفكيك والانتقاء والتقطير وإعادة البناء لتصير تجريداً بسيطاً: لا يبقى إلا أكثر نِسبها وكتلها تميّزاً ومحاورها ومنحنياتها وتداخلاتها وفراغها السلبي، مرتّبة من جديد بعدد قليل من الأشكال الهندسية، بلا نقل للتفاصيل لكن مع صلة واضحة بالأصل. تُؤخذ الألوان كلها من الصورة وتُختصر في لون رئيسي ولون داكن للبنية ولون فاتح أو محايد، مع لمسة إبراز صغيرة على الأكثر. النص منظومة طباعية تحريرية كاملة: عنوان شعري من كلمتين إلى خمس، ومعه من مجموعتين إلى أربع مجموعات صغيرة جداً من كلمات الحالة والأرقام وعلامات الفصول والاتجاهات وبطاقات أرشيفية، بلا سنة، مصفوفة عمودياً أو مائلة أو في أعمدة على المحاور والحواف والفراغ.",
+    "traits": [
+      "تفكيك وإعادة بناء",
+      "أشكال قليلة",
+      "أدوار الألوان",
+      "فراغ عاجي",
+      "كتاب فني"
+    ],
+    "good": [
+      "عمارة وفضاءات هندسية واضحة: درج حلزوني، رواق مقوّس، جسر، ضوء تحت كوّة",
+      "طبيعة صامتة بأشكال واضحة: مزهرية، كرسي، أوعية متراصّة",
+      "أشخاص أو حيوانات بوضعية مميزة: حركة واحدة لراقص، قطة تتمطّى"
+    ],
+    "poor": [
+      "صور يلزم فيها التعرّف على الشخص أو التفصيل بدقة، فالتجريد لا يُبقي إلا النِسب والعلاقات",
+      "صور قيمتها في تعدد الألوان، إذ لا يبقى هنا إلا ثلاثة ألوان رئيسية",
+      "تصاميم يجب أن تحمل سنة أو تاريخاً، أو تريد ملصقة مزدحمة"
+    ]
+  }
+}
